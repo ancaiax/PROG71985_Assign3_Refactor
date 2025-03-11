@@ -1,0 +1,5 @@
+﻿  ArrayLibrary.c
+  Source.c
+  Generating Code...
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign3_Refactor\Question 2\Source.c(19,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Question 2.vcxproj -> C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign3_Refactor\x64\Debug\Question 2.exe

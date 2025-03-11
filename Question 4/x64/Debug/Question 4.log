@@ -1,0 +1,4 @@
+﻿  StudentLibrary.c
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign3_Refactor\Question 4\StudentLibrary.c(47,3): warning C4047: 'return': 'STUDENT *' differs in levels of indirection from 'int'
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign3_Refactor\Question 4\StudentLibrary.c(74,2): warning C4047: 'return': 'STUDENT *' differs in levels of indirection from 'STUDENT **'
+  Question 4.vcxproj -> C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign3_Refactor\x64\Debug\Question 4.exe
